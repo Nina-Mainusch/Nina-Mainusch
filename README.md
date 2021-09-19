@@ -12,9 +12,9 @@ Checkout my [![Linkedin: nina-mainusch](https://img.shields.io/badge/nina-mainus
 
 
 
-### Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
 
