@@ -1,5 +1,21 @@
 ### Hi there 👋
 [![Linkedin: nina-mainusch](https://img.shields.io/badge/nina-mainusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nina-mainusch/)](https://www.linkedin.com/in/nina-mainusch/)
+
+**Data Science Student** @ *Ecole Polytechnique Fédérale de Lausanne (EPFL)*
+**Interests**: Machine Learning, Data Science, Cyber Security
+
+[[CV]](https://docs.google.com/viewer?url=https://github.com/nina-mainusch/nina-mainusch/raw/main/CV_Mainusch.pdf)
+
+*Education**
+* B. Sc. in Cognitive Science at *University of Osnabrück*
+* M. Sc. in Data Science at *Ecole Polytechnique Fédérale de Lausanne (EPFL)*
+
+
+### Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Nina-Mainusch/Nina-Mainusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
