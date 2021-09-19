@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin: nina-mainusch](https://img.shields.io/badge/xavoliva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xavier-oliva/)](https://www.linkedin.com/in/nina-mainusch/)
+[![Linkedin: nina-mainusch](https://img.shields.io/badge/nina-mainusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nina-mainusch/)](https://www.linkedin.com/in/nina-mainusch/)
 <!--
 **Nina-Mainusch/Nina-Mainusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
