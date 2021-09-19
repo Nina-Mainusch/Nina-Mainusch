@@ -13,8 +13,8 @@ Checkout my [![Linkedin: nina-mainusch](https://img.shields.io/badge/nina-mainus
 
 
 ### Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=nina-mainusch&show_icons=false&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!---
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nina-mainusch)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
