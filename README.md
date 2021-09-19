@@ -1,6 +1,6 @@
 ### Hi there :leopard:
 
-I am a **Data Science Student** at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.
+I am a **Data Science student** at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.
 
 My current **interests** are: 
 - Decentralized Machine Learning 
