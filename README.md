@@ -3,8 +3,10 @@
 I am a **Data Science student** at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.
 
 My current **interests** are: 
-- Decentralized Machine Learning 
-- Differential Privacy in ML
+- Decentralized and Federated Machine Learning 
+- Transformer models
+- Graph ML
+- Few Shot Learning
 - Baysian Data Analysis
 
 
