@@ -1,5 +1,9 @@
 ### Hi there :leopard:
 
-I am a **Data Science student** at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.
+I hold a Bachelor's degree in **Cognitive Science** from the University of Osnabrück and a Master's degree in **Data Science** from the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.
 
-Checkout my [![Linkedin: nina-mainusch](https://img.shields.io/badge/nina-mainusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nina-mainusch/)](https://www.linkedin.com/in/nina-mainusch/) or my [website](https://nina-mainusch.github.io/).
+Every day, I wake up excited to learn something new. I will combine my passion for computer science and the human body to maximize the positive impact I can have on our world.
+
+If I can recommend one book to you, it would be [A Thousand Brains](https://www.goodreads.com/en/book/show/54503521) by Jeff Hawkins.
+
+Checkout my [website](https://nina-mainusch.github.io/) for more.
